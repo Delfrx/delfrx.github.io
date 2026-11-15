@@ -1,0 +1,9 @@
+[
+ {"id":"classique","name":"Classique","bg":"#F6F7F9","surface":"#FFFFFF","primary":"#0F8B8D","accent":"#0F6E70","text":"#12202B","muted":"#5A6872","tint":"#DCEFF0","bubbleMine":"#0F8B8D","bubbleOther":"#FFFFFF","radius":16},
+ {"id":"nuit","name":"Nuit","bg":"#16212B","surface":"#1F2D3A","primary":"#0F8B8D","accent":"#3DD6D8","text":"#F2F6F8","muted":"#A9B7C2","tint":"#24414A","bubbleMine":"#0F8B8D","bubbleOther":"#2A3B4A","radius":16},
+ {"id":"foret","name":"Forêt","bg":"#EEF4EC","surface":"#FFFFFF","primary":"#2F6B3C","accent":"#2F6B3C","text":"#14231A","muted":"#53665A","tint":"#DCEBDD","bubbleMine":"#2F6B3C","bubbleOther":"#FFFFFF","radius":14},
+ {"id":"ocean","name":"Océan","bg":"#EAF2FB","surface":"#FFFFFF","primary":"#1F5FBF","accent":"#1F5FBF","text":"#0B2E59","muted":"#4A5F7A","tint":"#D6E4F7","bubbleMine":"#1F5FBF","bubbleOther":"#FFFFFF","radius":20},
+ {"id":"soleil","name":"Coucher de soleil","bg":"#FFF1E6","surface":"#FFFFFF","primary":"#D9631E","accent":"#B34A12","text":"#3A1A08","muted":"#7A5A47","tint":"#FDE3CF","bubbleMine":"#D9631E","bubbleOther":"#FFFFFF","radius":18},
+ {"id":"minimal","name":"Minimal","bg":"#FFFFFF","surface":"#F6F7F9","primary":"#12202B","accent":"#12202B","text":"#12202B","muted":"#5A6872","tint":"#E3E8EB","bubbleMine":"#12202B","bubbleOther":"#F0F3F5","radius":12},
+ {"id":"aurore","name":"Aurore","bg":"#0A1020","surface":"#141D2E","primary":"#4C82F0","accent":"#8FB8FF","text":"#EAF0F8","muted":"#9FB0C3","tint":"#1B2A47","bubbleMine":"#3B6CD9","bubbleOther":"#1D2940","radius":18,"anim":"aurora"}
+]
